@@ -1,0 +1,52 @@
+.nav{
+    height: 60px;
+    width: 100%;
+padding: right 40px;
+text-align: left;
+background-color: rgba(0, 0, 0,0.4);
+color: white;
+border-radius: 33px;
+position: fixed;
+}
+h3{
+    margin-right: 50px;
+    float:left
+
+}
+#ul{
+    
+    margin-top: 20px;
+    margin-right: 60px;
+    margin-left: 40px;
+}
+h3:hover{
+    background-color:  rgba(242, 245, 250, 0.5);
+}
+#id{
+    
+    width: 30px;
+
+}
+#head{
+    margin-top: 10px;
+    margin-left : 50px;
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: 40px;
+}
+h1{margin-top: 0px;
+    margin-left: 10px;
+    
+    float: left;
+    height: 76px;
+    width: 6%;
+    color: white;
+    border-radius: 50%;
+    background-image: url(sukuna01.gif);
+    background-size: contain;
+}
+#btn{
+    width: 80px;
+}
+
+

@@ -1,0 +1,70 @@
+* {
+  padding: 0;
+}
+
+body {
+  background-color: rgb(237, 108, 237);
+  background-image: url(new.webp);
+  background-size: cover;
+ 
+  
+}
+
+.fo {
+  display: block;
+  gap: 20px;
+  justify-content: safe;
+  color: white;
+  text-align: center;
+  padding-left: 500px;
+  height: 200px;
+  width: 10%;
+  padding: 100px;
+  margin-top: 100px;
+  margin-bottom: 500px;
+  border-radius: 14px;
+  position: fixed;
+  top: 1px;
+  left: 37%;
+  background-color: rgb(173, 252, 153);
+}
+
+.cl {
+  margin-top: 10px;
+  width: 80px;
+  height: 30px;
+  box-shadow: 2px 2px blue;
+  text-decoration-color: white;
+  background: white;
+  color: black;
+}
+
+.head {
+  margin-top: 10px;
+  text-align: center;
+  text-shadow: 2px 2px blue;
+}
+
+#password {
+
+  margin-top: 10px;
+}
+
+.cl:hover {
+  cursor: pointer;
+  background-color: yellow;
+  box-shadow: 8px 8px rgba(239, 203, 203);
+
+}
+a{
+ margin: 0,0,30px,50px;
+}
+a:hover {
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+  text-shadow: 2px blueviolet;
+}
+a:link{
+  text-decoration: none;
+}
